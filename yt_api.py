@@ -27,7 +27,7 @@ st.set_page_config(
 #    initial_sidebar_state="expanded",
 )
 
-API_KEY = "AIzaSyCaNVP6p46lLpeVMxAED5rrmJUC6n7PvOg"
+API_KEY = "*******"
 
 api_service_name = "youtube"
 api_version = "v3"
