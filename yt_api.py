@@ -41,10 +41,6 @@ with st.expander('About the Creator'):
 
     Twitter: https://twitter.com/jpcodesss_
 
-    Visit my GitHub to explore the source code of this project
-
-    GitHub: https://github.com/JpCurada
-
     I am open for constructive criticisms and your feedback will be highly appreciated.
 
     Gmail: j.curada02@gmail.com
