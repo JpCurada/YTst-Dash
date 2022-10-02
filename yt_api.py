@@ -21,7 +21,7 @@ from bs4 import BeautifulSoup
 from PIL import Image
 
 st.set_page_config(
-   page_title="YT St-Dash",
+   page_title="YT St-Board",
    page_icon=":bar_chart:",
    layout="wide"
 #    initial_sidebar_state="expanded",
